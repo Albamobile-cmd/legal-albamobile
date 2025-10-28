@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eliminación de cuenta – Gestión de Actuaciones</title>
+</head>
+<body>
+<h1>Eliminación de cuenta – Gestión de Actuaciones</h1>
+<p>Esta página explica cómo puedes eliminar tu cuenta y los datos asociados en la aplicación <strong>Gestión de Actuaciones</strong> (A Contratiempo – by Albamobile).</p>
+
+<h2>Cómo eliminar tu cuenta</h2>
+<p>Puedes eliminar tu cuenta directamente desde la aplicación:</p>
+<ol>
+  <li>Abre la app e inicia sesión con tu usuario.</li>
+  <li>Ve al menú <strong>Perfil</strong>.</li>
+  <li>Pulsa el botón <strong>“Eliminar cuenta”</strong>.</li>
+  <li>Confirma la acción. Tu cuenta se eliminará de forma permanente.</li>
+</ol>
+
+<h2>Datos que se eliminan</h2>
+<p>Al eliminar tu cuenta se borrarán automáticamente los siguientes datos asociados:</p>
+<ul>
+  <li>Tu cuenta de usuario (correo y autenticación de Firebase Auth)</li>
+  <li>Todas tus actuaciones registradas</li>
+  <li>Tu información de perfil y preferencias</li>
+</ul>
+
+<h2>Datos conservados</h2>
+<p>No se conservan datos personales tras la eliminación de la cuenta.  
+Los registros anónimos de uso (como estadísticas agregadas de Firebase Analytics) no permiten identificarte individualmente.</p>
+
+<h2>Contacto</h2>
+<p>Si tienes cualquier duda o problema con la eliminación, puedes escribir a:  
+<a href="mailto:soporte@albamobile.es">info@albamobile.es</a></p>
+</body>
+</html>
